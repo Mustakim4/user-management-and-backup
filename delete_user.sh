@@ -8,5 +8,5 @@ then
 else    
     sudo userdel $DELETE_USER 
 fi
-echo "$DELETE_USER has been delete"
+echo "$DELETE_USER has been deleted"
 echo "######################################"
